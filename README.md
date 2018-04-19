@@ -21,6 +21,10 @@ Decision support tools are gaining significant research interest due to their po
 
 We aim to provide this diagnosis to people in remote areas where healthcare is not just lacking but extremely inadequate.
 
+##Team
+Saurabh Khandelwa
+Shubham Jha
+Nischay 
 
 ## References
 1. [Analysis of in-air movement in handwriting: A novel marker for Parkinson’s disease](https://www.sciencedirect.com/science/article/pii/S0169260714003204)
