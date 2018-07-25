@@ -22,8 +22,10 @@ Decision support tools are gaining significant research interest due to their po
 We aim to provide this diagnosis to people in remote areas where healthcare is not just lacking but extremely inadequate.
 
 ##Team
-Saurabh Khandelwa
+Saurabh Khandelwal
+
 Shubham Jha
+
 Nischay 
 
 ## References
